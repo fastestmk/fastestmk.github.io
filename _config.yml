@@ -1,12 +1,12 @@
 # Site settings
-title: i am trask
+title: Manoj Kumar
 subtitle: Machine Learning Blog
-email: liamtrask@gmail.com
+email: fastestmk@gmail.com
 description: "A machine learning craftsmanship blog."
 baseurl: ""
 url: "https://iamtrask.github.io"
-twitter_username: iamtrask
-github_username:  iamtrask
+twitter_username: fastestmk
+github_username:  fastestmk
 
 # Build settings
 markdown: kramdown
