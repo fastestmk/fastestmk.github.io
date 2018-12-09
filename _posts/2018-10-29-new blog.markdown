@@ -5,4 +5,4 @@ date: 2018-10-29 10:16:00
 author: fastestmk
 ---
 
-I recently made by blog through Jekyll, a static-site generator. I didn't know about Jekyll. But I was following some people on twitter and saw their blog on github. I wanted to make my own. Now I made it. I'll write on it soon.. 
+I recently made my blog through Jekyll, a static-site generator. I didn't know about Jekyll. But I was following some people on twitter and saw their blog on github. I wanted to make my own. Now I made it. I'll write on it soon.. 
