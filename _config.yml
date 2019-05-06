@@ -10,6 +10,7 @@ github_username:  fastestmk
 # Build settings
 markdown: kramdown
 permalink: pretty
+theme: minima
 
 highlighter: rouge
 kramdown:
