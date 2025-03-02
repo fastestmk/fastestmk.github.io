@@ -101,3 +101,10 @@ h2 {
 .project-links a:hover {
     text-decoration: underline;
 }
+
+.header-text p a{
+    color: #0f0;
+}
+
+
+
